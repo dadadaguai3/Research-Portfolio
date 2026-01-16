@@ -24,7 +24,7 @@ My core competitiveness lies in constructing large-scale administrative datasets
     * `kimi_api_parser.py`: Python script demonstrating LLM integration for text extraction.
 * **Tech Stack:** Python (Pandas), RPA (ShadowBot), LLM API.
 
-### 3. [Local Government Debt Database Cleaning](./03_Local_Debt_Analysis)
+### 2. [Local Government Debt Database Cleaning](./02_Local_Debt_Analysis)
 **The Scenario:** Data is sourced from China's unified local government debt disclosure platform. Given the relatively consistent formatting of these public reports, **Regular Expressions (Regex)** were deployed for efficient batch processing.
 * **My Solution:** Developed automated scripts to parse semi-structured tables into a clean panel dataset.
 * **📂 Files Included:**
