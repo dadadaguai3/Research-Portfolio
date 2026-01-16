@@ -1,7 +1,7 @@
 # Research Portfolio
 
 Code, documentation, and sample data for large-scale economic database construction. 
-**Projects include:** China County-level Fiscal Database, Rubber Plantation Remote Sensing, and Local Gov Debt Cleaning.
+**Projects include:** China County-level Fiscal Database and Local Gov Debt Cleaning.
 
 ---
 
