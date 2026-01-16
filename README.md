@@ -1,4 +1,4 @@
-# Research Portfolio: Shichao Wan
+# Research Portfolio
 
 Code, documentation, and sample data for large-scale economic database construction. 
 **Projects include:** China County-level Fiscal Database, Rubber Plantation Remote Sensing, and Local Gov Debt Cleaning.
@@ -19,7 +19,7 @@ My core competitiveness lies in constructing large-scale administrative datasets
 ### 1. [Construction of China's Nationwide County-level Fiscal Database](./01_Fiscal_Budget_Database)
 **The Challenge:** Official fiscal data at the county level is often fragmented across thousands of local government websites in various formats.
 * **My Solution:** Led a team to collect and clean budget reports for **3,109 administrative divisions** (2015-2024). Used **LLM API** to handle unstructured text.
-* **📂 Files Included:** * `Fiscal_Data_Technical_Report.pdf`: Detailed methodology on raw data collection.
+* **📂 Files Included:** * `Fiscal_Data_Technical_Report.pdf`: Detailed display of raw data specifics (includes Chinese and machine-translated English versions).
     * `Sample_City_Level_Data.xlsx`: A sample of the structured dataset (prefectural-level aggregation).
     * `kimi_api_parser.py`: Python script demonstrating LLM integration for text extraction.
 * **Tech Stack:** Python (Pandas), RPA (ShadowBot), LLM API.
@@ -44,4 +44,3 @@ My core competitiveness lies in constructing large-scale administrative datasets
 
 ## 📫 Contact
 * **Email:** w103065lain@163.com
-* **CV:** [Download my Full Resume (PDF)](./cv.pdf)
